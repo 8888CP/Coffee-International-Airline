@@ -623,6 +623,14 @@
                             "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a350-900/KFflagship.png"
                        ],
                        "credits": "KF2447"
+                  },
+                  {
+                      "name": "Coffee International Airline (World peace livery)",
+                      "texture": [
+                            "/models/aircraft/premium/a350/specular.jpg",
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a350-900/BEACE.png"
+                       ],
+                       "credits": "KF2447"
                   }
             ],
             "labels": [
