@@ -146,6 +146,15 @@
                             "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a380/KF380special.png"
                        ],
                        "credits": "KF2447"
+                  },
+                  {
+                      "name": "Coffee International Airline (World peace livery)",
+                      "texture": [
+                            "/models/aircraft/premium/a380/normal.jpg",
+                            "/models/aircraft/premium/a380/specular.jpg",
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a380/B-054A.png"
+                       ],
+                       "credits": "KF2447"
                   }
             ],
             "labels": [
@@ -606,7 +615,7 @@
                             "/models/aircraft/premium/a350/specular.jpg",
                             "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a350-900/KFlovechina.png"
                        ],
-                       "credits": "KF2447＆CP8888"
+                       "credits": "KF2447 & CP8888"
                   },
                   {
                       "name": "Coffee International Airline (Slogan livery)",
@@ -629,6 +638,38 @@
                       "texture": [
                             "/models/aircraft/premium/a350/specular.jpg",
                             "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a350-900/BEACE.png"
+                       ],
+                       "credits": "KF2447"
+                  },
+                  {
+                      "name": "Coffee International Airline (Luo Tianyi's birthday livery)",
+                      "texture": [
+                            "/models/aircraft/premium/a350/specular.jpg",
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a350-900/B-0712.png"
+                       ],
+                       "credits": "KF2447"
+                  },
+                  {
+                      "name": "Coffee International Airline (World peace-ported from 748i)",
+                      "texture": [
+                            "/models/aircraft/premium/a350/specular.jpg",
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a350-900/B-0713.png"
+                       ],
+                       "credits": "KF2447"
+                  },
+                  {
+                      "name": "Coffee International Airline (No.1 in exam)",
+                      "texture": [
+                            "/models/aircraft/premium/a350/specular.jpg",
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a350-900/1.png"
+                       ],
+                       "credits": "KF2447"
+                  },
+                  {
+                      "name": "Coffee International Airline (Sky belong to love)",
+                      "texture": [
+                            "/models/aircraft/premium/a350/specular.jpg",
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a350-900/B-0606.png"
                        ],
                        "credits": "KF2447"
                   }
@@ -918,6 +959,14 @@
                       "name": "Coffee International Airline B-021C",
                       "texture": [
                             "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Boeing_b747-8i/B021C.png",
+                            "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/wing/original.png"
+                       ],
+                       "credits": "KF2447"
+                  },
+                  {
+                      "name": "Coffee International Airline (World peace livery)",
+                      "texture": [
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Boeing_b747-8i/B-054B.png",
                             "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/wing/original.png"
                        ],
                        "credits": "KF2447"
@@ -1316,6 +1365,13 @@
                       "name": "Coffee International Airline (Happy Year of the horse livery)",
                       "texture": [
                             "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Comac_c919/B021A.png"
+                       ],
+                       "credits": "KF2447"
+                  },
+                  {
+                      "name": "Coffee International Airline (World peace livery)",
+                      "texture": [
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Comac_c919/WATW.png"
                        ],
                        "credits": "KF2447"
                   }
