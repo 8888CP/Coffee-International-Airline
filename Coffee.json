@@ -1419,32 +1419,32 @@
                  {
                       "name": "Coffee International Airline",
                       "texture": [
-                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a330-300/KF.png",
-                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a330-300/KF.png"
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a330-300/kf.png",
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a330-300/kf.png"
                        ],
                        "credits": "KF2447"
                   },
                   {
                       "name": "Coffee International Airline (old design)",
                       "texture": [
-                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a330-300/KFold.png",
-                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a330-300/KFold.png"
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a330-300/kfold.png",
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a330-300/kfold.png"
                        ],
                        "credits": "KF2447"
                   },
                   {
                       "name": "Coffee International Airline (blue design)",
                       "texture": [
-                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a330-300/KFblue.png",
-                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a330-300/KFblue.png"
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a330-300/kf_blue.png",
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a330-300/kf_blue.png"
                        ],
                        "credits": "KF2447"
                   },
                   {
                       "name": "Coffee International Airline (Stellar Sky Alliance livery)",
                       "texture": [
-                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a330-300/KFsky.png",
-                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a330-300/KFsky.png"
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a330-300/kf_sky.png",
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a330-300/kf_sky.png"
                        ],
                        "credits": "KF2447"
                   }
