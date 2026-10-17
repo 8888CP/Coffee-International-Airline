@@ -867,7 +867,7 @@
             "labels": [
                 "Texture"
             ]
-            
+
         },
         "2852": {
             "name": "Cameron R-650 Rozière Balloon",
@@ -876,7 +876,7 @@
             "labels": [
                 "Texture"
             ]
-            
+
         },
         "5038": {
             "name": "Lokheed L1011-1 TriStar",
@@ -908,7 +908,7 @@
                        "credits": "KF2447"
                   },
                   {
-                      "name": "Coffee International Airline (Stellar Sky Alliance - standard)",
+                      "name": "Coffee International Airline (Stellar Sky Alliance livery - standard)",
                       "texture": [
                             "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Boeing_b747-8i/KFskystandard.png",
                             "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/wing/original.png"
@@ -916,7 +916,7 @@
                        "credits": "KF2447"
                   },
                   {
-                      "name": "Coffee International Airline (Stellar Sky Alliance - gradient)",
+                      "name": "Coffee International Airline (Stellar Sky Alliance livery - gradient)",
                       "texture": [
                             "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Boeing_b747-8i/KFskygradient.png",
                             "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/wing/original.png"
@@ -924,7 +924,7 @@
                        "credits": "KF2447"
                   },
                   {
-                      "name": "Coffee International Airline (Stellar Sky Alliance - stroke)",
+                      "name": "Coffee International Airline (Stellar Sky Alliance livery - stroke)",
                       "texture": [
                             "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Boeing_b747-8i/KFskystroke.png",
                             "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/wing/original.png"
@@ -976,7 +976,7 @@
                 "Texture",
                 "Wing texture"
             ]
-            
+
         },
         "2857": {
             "name": "Lokheed Martin F22 Raptor",
@@ -1221,7 +1221,7 @@
                 "Texture",
                 "Wing texture"
             ]
-            
+
         },
         "1018": {
             "name": "Embraer ERJ 190",
@@ -1339,7 +1339,7 @@
                             "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Comac_c919/KFV3.png"
                        ],
                        "credits": "KF2447"
-                  }, 
+                  },
                   {
                       "name": "Coffee International Airline (Nonsensical - AD Calcium)",
                       "texture": [
@@ -1412,9 +1412,46 @@
                 "Fuselage texture",
                 "Wing texture"
             ]
+        },
+        "6012": {
+            "name": "Airbus a330-300",
+            "liveries": [
+                 {
+                      "name": "Coffee International Airline",
+                      "texture": [
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a330-300/KF.png",
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a330-300/KF.png"
+                       ],
+                       "credits": "KF2447"
+                  },
+                  {
+                      "name": "Coffee International Airline (old design)",
+                      "texture": [
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a330-300/KFold.png",
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a330-300/KFold.png"
+                       ],
+                       "credits": "KF2447"
+                  },
+                  {
+                      "name": "Coffee International Airline (blue design)",
+                      "texture": [
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a330-300/KFblue.png",
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a330-300/KFblue.png"
+                       ],
+                       "credits": "KF2447"
+                  },
+                  {
+                      "name": "Coffee International Airline (Stellar Sky Alliance livery)",
+                      "texture": [
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a330-300/KFsky.png",
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a330-300/KFsky.png"
+                       ],
+                       "credits": "KF2447"
+                  }
+            ],
+            "labels": [
+                "Texture"
+            ]
         }
     }
-
 }
-
-
